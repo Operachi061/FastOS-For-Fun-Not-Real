@@ -15,4 +15,6 @@ I will not say because I am still doing this project
 # Languages
 This project a make in c++ and python
 # Other
-idk 
+link for website with repositories or packages for this project
+https://heheyolo.github.io/FastOS-Not-Real/
+name manager packages is: turbo
