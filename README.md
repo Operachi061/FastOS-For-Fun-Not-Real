@@ -16,5 +16,5 @@ I will not say because I am still doing this project
 This project a make in c++ and python
 # Other
 link for website with repositories or packages for this project
-https://heheyolo.github.io/FastOS-Not-Real-web/
+https://heheyolo.github.io/FastOS-Not-Real-Repository-Website/
 name manager packages is: turbo
