@@ -11,7 +11,7 @@ launch a terminal or cmd and write pip install os and pip install shutil
 # You finish
 ok
 # How to install FastOS-Not-Real
-I will not say because I am still doing this project
+I am still doing this project
 # Languages
 This project a make in c++ and python
 # Other
